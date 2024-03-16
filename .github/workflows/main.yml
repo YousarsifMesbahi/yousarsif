@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقع الكتب والمقالات</title>
+</head>
+<body>
+    <header>
+        <h1>مرحبا بك في موقع الكتب والمقالات</h1>
+    </header>
+    
+    <main>
+        <section>
+            <h2>المقالات</h2>
+            <ul>
+                <li><a href="articles/article1.html">عنوان المقالة الأولى</a></li>
+                <li><a href="articles/article2.html">عنوان المقالة الثانية</a></li>
+                <li><a href="articles/article3.html">عنوان المقالة الثالثة</a></li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>الكتب</h2>
+            <ul>
+                <li><a href="books/book1.pdf">اسم الكتاب الأول</a> - <a href="books/book1.pdf" download>تحميل</a></li>
+                <li><a href="books/book2.pdf">اسم الكتاب الثاني</a> - <a href="books/book2.pdf" download>تحميل</a></li>
+                <li><a href="books/book3.pdf">اسم الكتاب الثالث</a> - <a href="books/book3.pdf" download>تحميل</a></li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>حقوق الطبع والنشر &copy; 2024 موقع الكتب والمقالات.</p>
+    </footer>
+</body>
+</html>
